@@ -17,4 +17,5 @@ A touchless, gesture-controlled appliance switching system designed to toggle el
 4. **Relay Activation:** The transistor stage drives the 5V SPDT relay to safely switch the connected appliance load on or off.
 
 ## 🎥 Project Demonstration
-*(If you uploaded your video directly to the repo, you can link it here, or embed a preview link to your demo video).*
+
+[▶ Watch Project Demonstration Video](Smart Wave Video (1).mp4)
