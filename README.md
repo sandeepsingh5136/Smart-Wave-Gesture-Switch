@@ -16,6 +16,7 @@ A touchless, gesture-controlled appliance switching system designed to toggle el
 3. **State Switching:** The CD4017 decade counter acts as a sequential controller, toggling its output state on each valid motion trigger.
 4. **Relay Activation:** The transistor stage drives the 5V SPDT relay to safely switch the connected appliance load on or off.
 
-## 🎥 Project Demonstration
-[▶ Watch Project Demonstration Video](Smart%20Wave%20Video%20(1).mp4)
 
+## 🎥 Project Demonstration
+
+[▶ Watch Project Demonstration on Google Drive](https://drive.google.com/file/d/1jD3PgkqN8fh4GAVC00ui7RsuglN7NtiL/view?usp=sharing)
