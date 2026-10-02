@@ -18,4 +18,4 @@ A touchless, gesture-controlled appliance switching system designed to toggle el
 
 ## 🎥 Project Demonstration
 
-[▶ Watch Project Demonstration Video](Smart Wave Video (1).mp4)
+[▶ Watch Project Demonstration Video](Smart%20Wave%20Video%20(1).mp4)
